@@ -1,0 +1,10 @@
+{
+  "requiredPlugins": [
+    {
+      "source": "git-subdir",
+      "url": "https://github.com/rescheme/skills.git",
+      "path": "plugins/paper-remote",
+      "sha": "3b7559b0947633f9a413bdec2a67197004c72599"
+    }
+  ]
+}
